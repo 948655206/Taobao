@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_red_packet_checked.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\red_packet_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_base_home_fragment.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\base_home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_with_bar_layout.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_with_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_shanchuyuan.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\shanchuyuan.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_select_checked.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\select_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_red_packet_normal.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\red_packet_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_item_on_sell_content.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\item_on_sell_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_item_selected_page_content.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\item_selected_page_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_selector_navigation_home.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\selector_navigation_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_activitiy_scaner_qr_code.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\activitiy_scaner_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_title_flag.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_title_flag.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_search.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_redpacket.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_redpacket.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_base_fragment_layout.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\base_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_flow_text_bg_press.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_flow_text_bg_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_selected_press.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\selected_press.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_selector_navigation_selected.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\selector_navigation_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_button_bg.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_item_selected_page_left.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\item_selected_page_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_include_home_pager_title_part.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\include_home_pager_title_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_home_pager.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_home_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_home_press.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\home_press.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_activity_ticket.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\activity_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_scan.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_select_normal.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\select_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_wifi.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_select.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_red_packet_press.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\red_packet_press.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_indicator_point_normal.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_indicator_point_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_selectot_navigation_red_packet.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\selectot_navigation_red_packet.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_flow_text_bg_normal.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_flow_text_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_selector_flow_text_bg.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\selector_flow_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_tag_bg.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_tag_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_on_sell.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_on_sell.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_empty.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_search_layout.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_search_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_home_checked.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\home_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_empty.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_selector_navigation_search.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\selector_navigation_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_search_normal.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\search_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_back.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_edit_box_bg.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_edit_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_flow_text_bg_page.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_flow_text_bg_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_navigation_bar_color.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\navigation_bar_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_search_white.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_ticket_code_box_bg.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_ticket_code_box_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_delete_icon.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_flow_text_view.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\flow_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_item_home_pager_content.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\item_home_pager_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_search_checked.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\search_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_search_press.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\search_press.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_placehoder_pic.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\placehoder_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\drawable_shape_indicator_point_selected.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\drawable\\shape_indicator_point_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_error.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_loading.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\loading.png"
+    },
+    {
+        "merged": "com.zxyapp.taobaounion.app-merged_res-5:/layout_activitiy_scaner_qr_code.xml.flat",
+        "source": "com.zxyapp.taobaounion.app-main-7:/layout/activitiy_scaner_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\menu_my_navigation_items.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\menu\\my_navigation_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_scan_white.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\layout_fragment_loading.xml.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\layout\\fragment_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-merged_res-5:\\mipmap-hdpi_home_normal.png.flat",
+        "source": "C:\\Users\\liu\\Desktop\\黄张敖Android\\1（无ppt）\\SuperDic\\.gradle\\2.10\\daemon\\7.3.3\\com.zxyapp.taobaounion.app-main-7:\\mipmap-hdpi\\home_normal.png"
+    }
+]

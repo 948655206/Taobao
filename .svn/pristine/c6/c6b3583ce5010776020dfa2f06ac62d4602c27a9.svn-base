@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TaobaoUnion.iml" filepath="$PROJECT_DIR$/.idea/modules/TaobaoUnion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TaobaoUnion.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/refreshlibrary/TaobaoUnion.refreshlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

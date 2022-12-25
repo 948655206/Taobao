@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamsiree.RxTool:RxKit:v2.4.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/ac0e56e2e09bae42b1582015a475e662/transformed/jetified-RxKit-v2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/ac0e56e2e09bae42b1582015a475e662/transformed/jetified-RxKit-v2.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/ac0e56e2e09bae42b1582015a475e662/transformed/jetified-RxKit-v2.4.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/modules-2/files-2.1/com.github.tamsiree.RxTool/RxKit/v2.4.1/57a54a5f6ead8e9d8abd802d20ad73d52a8bf1fa/RxKit-v2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,43 @@
+// Generated code from Butter Knife. Do not modify!
+package com.zxyapp.taobaounion.ui.adatper;
+
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
+import androidx.annotation.CallSuper;
+import androidx.annotation.UiThread;
+import butterknife.Unbinder;
+import butterknife.internal.Utils;
+import com.zxyapp.taobaounion.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class SelectedPageContentAdapter$InnerHolder_ViewBinding implements Unbinder {
+  private SelectedPageContentAdapter.InnerHolder target;
+
+  @UiThread
+  public SelectedPageContentAdapter$InnerHolder_ViewBinding(
+      SelectedPageContentAdapter.InnerHolder target, View source) {
+    this.target = target;
+
+    target.cover = Utils.findRequiredViewAsType(source, R.id.selected_cover, "field 'cover'", ImageView.class);
+    target.offPriseTv = Utils.findRequiredViewAsType(source, R.id.selected_off_prise, "field 'offPriseTv'", TextView.class);
+    target.title = Utils.findRequiredViewAsType(source, R.id.selected_title, "field 'title'", TextView.class);
+    target.buyBtn = Utils.findRequiredViewAsType(source, R.id.selected_buy_btn, "field 'buyBtn'", TextView.class);
+    target.originPriseTv = Utils.findRequiredViewAsType(source, R.id.selected_original_prise, "field 'originPriseTv'", TextView.class);
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    SelectedPageContentAdapter.InnerHolder target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+    this.target = null;
+
+    target.cover = null;
+    target.offPriseTv = null;
+    target.title = null;
+    target.buyBtn = null;
+    target.originPriseTv = null;
+  }
+}

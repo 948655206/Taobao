@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamsiree.RxTool:RxFeature:v2.4.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/557d5ca2900fc3c4b53de3b4f405c40f/transformed/jetified-RxFeature-v2.4.1/jars/libs/alipaySdk-20180403.jar!/" />
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/557d5ca2900fc3c4b53de3b4f405c40f/transformed/jetified-RxFeature-v2.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/557d5ca2900fc3c4b53de3b4f405c40f/transformed/jetified-RxFeature-v2.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/557d5ca2900fc3c4b53de3b4f405c40f/transformed/jetified-RxFeature-v2.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/modules-2/files-2.1/com.github.tamsiree.RxTool/RxFeature/v2.4.1/df505c8f6e352cfac6943aa01266d012804d680a/RxFeature-v2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

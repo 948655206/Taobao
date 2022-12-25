@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b7c288645269d50f35fd76106e782e7/transformed/junit-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6cfad69a0ee4a03290e5f8ca27ec87b7/transformed/jetified-junit-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/6cfad69a0ee4a03290e5f8ca27ec87b7/transformed/jetified-junit-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/6cfad69a0ee4a03290e5f8ca27ec87b7/transformed/jetified-junit-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/6cfad69a0ee4a03290e5f8ca27ec87b7/transformed/jetified-junit-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.0/36f7bb8e054e7a5d0d6e17b52bd6b2a06118a437/junit-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.0/fb8630803ddc45d3eb5b8e8068ea51b4a84c75d9/junit-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

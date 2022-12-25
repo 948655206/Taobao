@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zxyapp.taobaounion"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:11:5-79
+12-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:11:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:13:5-81
+13-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:13:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:14:5-79
+14-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:14:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:15:5-76
+15-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:15:22-73
+16    <uses-permission android:name="android.permission.CALL_PHONE" />
+16-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:16:5-69
+16-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:16:22-66
+17    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+17-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:17:5-84
+17-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:17:22-81
+18    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" /> <!-- 外部存储 -->
+18-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:18:5-83
+18-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:18:22-80
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:21:5-75
+19-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:21:22-72
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 许可振动 -->
+20-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:22:5-81
+20-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:22:22-78
+21    <uses-permission android:name="android.permission.VIBRATE" /> <!-- 打开闪光灯 -->
+21-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:24:5-66
+21-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:24:22-63
+22    <uses-permission android:name="android.permission.FLASHLIGHT" /> <!-- 许可使用照相机 -->
+22-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:26:5-69
+22-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:26:22-66
+23    <uses-permission android:name="android.permission.CAMERA" /> <!-- 许可调用相机硬件 -->
+23-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:28:5-65
+23-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:28:22-62
+24    <uses-feature android:name="android.hardware.camera" /> <!-- 许可调用相机自动对焦 -->
+24-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:30:5-60
+24-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:30:19-57
+25    <uses-feature android:name="android.hardware.camera.autofocus" />
+25-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:32:5-70
+25-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:32:19-67
+26
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28
+29    <application
+29-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:8:5-33:19
+30        android:name="com.zxyapp.taobaounion.base.BaseApplication"
+30-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:9:9-45
+31        android:allowBackup="true"
+31-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:10:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.2.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\393d5deb4961756dfc098ec7aca7537e\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+33        android:dataExtractionRules="@xml/data_extraction_rules"
+33-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:11:9-65
+34        android:debuggable="true"
+35        android:extractNativeLibs="false"
+36        android:fullBackupContent="@xml/backup_rules"
+36-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:12:9-54
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:13:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:14:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:15:9-54
+40        android:supportsRtl="true"
+40-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:16:9-35
+41        android:testOnly="true"
+42        android:theme="@style/Theme.TaobaoUnion" >
+42-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:17:9-49
+43        <activity
+43-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:19:9-28:20
+44            android:name="com.zxyapp.taobaounion.ui.activity.MainActivity"
+44-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:20:13-53
+45            android:exported="true" >
+45-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:21:13-36
+46            <intent-filter>
+46-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:22:13-27:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:23:17-69
+47-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:23:25-66
+48                <action android:name="android.intent.action.VIEW" />
+48-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:24:17-68
+48-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:24:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:26:17-77
+50-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:26:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:29:9-31:20
+54            android:name="com.zxyapp.taobaounion.ui.activity.TicketActivity"
+54-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:29:19-61
+55            android:launchMode="singleTop" >
+55-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:30:13-43
+56        </activity>
+57        <activity android:name="com.zxyapp.taobaounion.ui.activity.ScanQrCodeActivity" />
+57-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:32:9-77
+57-->C:\Users\liu\Desktop\TaobaoUnion\app\src\main\AndroidManifest.xml:32:19-65
+58        <activity
+58-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ecb98a09efebd2b159ded559dea838f5\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ecb98a09efebd2b159ded559dea838f5\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ecb98a09efebd2b159ded559dea838f5\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ecb98a09efebd2b159ded559dea838f5\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
+62
+63        <provider
+63-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:37:9-45:20
+64            android:name="androidx.core.content.FileProvider"
+64-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:38:13-62
+65            android:authorities="com.zxyapp.taobaounion.fileprovider"
+65-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:39:13-64
+66            android:exported="false"
+66-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:40:13-37
+67            android:grantUriPermissions="true" >
+67-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:41:13-47
+68            <meta-data
+68-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:42:13-44:54
+69                android:name="android.support.FILE_PROVIDER_PATHS"
+69-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:43:17-67
+70                android:resource="@xml/file_paths" />
+70-->[com.github.tamsiree.RxTool:RxKit:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\ac0e56e2e09bae42b1582015a475e662\transformed\jetified-RxKit-v2.4.1\AndroidManifest.xml:44:17-51
+71        </provider>
+72
+73        <activity
+73-->[com.github.tamsiree.RxTool:RxUI:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\83389b052cd80eb2db01ae14bbd62f65\transformed\jetified-RxUI-v2.4.1\AndroidManifest.xml:14:9-16:70
+74            android:name="com.vondear.rxui.activity.ActivityWebView"
+74-->[com.github.tamsiree.RxTool:RxUI:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\83389b052cd80eb2db01ae14bbd62f65\transformed\jetified-RxUI-v2.4.1\AndroidManifest.xml:15:13-69
+75            android:windowSoftInputMode="stateHidden|adjustResize" />
+75-->[com.github.tamsiree.RxTool:RxUI:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\83389b052cd80eb2db01ae14bbd62f65\transformed\jetified-RxUI-v2.4.1\AndroidManifest.xml:16:13-67
+76        <activity android:name="com.vondear.rxfeature.activity.ActivityScanerCode" >
+76-->[com.github.tamsiree.RxTool:RxFeature:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\557d5ca2900fc3c4b53de3b4f405c40f\transformed\jetified-RxFeature-v2.4.1\AndroidManifest.xml:12:9-13:20
+76-->[com.github.tamsiree.RxTool:RxFeature:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\557d5ca2900fc3c4b53de3b4f405c40f\transformed\jetified-RxFeature-v2.4.1\AndroidManifest.xml:12:19-83
+77        </activity>
+78        <activity android:name="com.vondear.rxfeature.activity.ActivityCodeTool" >
+78-->[com.github.tamsiree.RxTool:RxFeature:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\557d5ca2900fc3c4b53de3b4f405c40f\transformed\jetified-RxFeature-v2.4.1\AndroidManifest.xml:14:9-15:20
+78-->[com.github.tamsiree.RxTool:RxFeature:v2.4.1] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\557d5ca2900fc3c4b53de3b4f405c40f\transformed\jetified-RxFeature-v2.4.1\AndroidManifest.xml:14:19-81
+79        </activity>
+80
+81        <meta-data
+81-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\62f8058b7746dcd4c9853ff439da02b8\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+82            android:name="com.google.android.gms.version"
+82-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\62f8058b7746dcd4c9853ff439da02b8\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+83            android:value="@integer/google_play_services_version" />
+83-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\liu\Desktop\黄张敖Android\1（无ppt）\SuperDic\.gradle\2.10\caches\transforms-3\62f8058b7746dcd4c9853ff439da02b8\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+84    </application>
+85
+86</manifest>

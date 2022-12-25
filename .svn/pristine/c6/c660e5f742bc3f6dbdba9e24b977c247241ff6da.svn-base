@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorEFEEEE">#EFEEEE</color>
+    <color name="colorGrey">#7B7B7B</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#F5A623</color>
+    <color name="colorTabNormal">#aaffffff</color>
+    <color name="colorTmail">#D0021B</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="test_home" type="id"/>
+    <item name="test_navigationBar" type="id"/>
+    <string name="app_name">TaobaoUnion</string>
+    <string name="test_on_sell_title">特惠宝贝</string>
+    <string name="text_goods_off_prise">省%1$d元</string>
+    <string name="text_goods_original_prise">￥%1$s</string>
+    <string name="text_goods_sells_count">%1$d人已购买</string>
+    <string name="text_home">首页</string>
+    <string name="text_loading">玩命加载中...</string>
+    <string name="text_network_error">网络出错，请点击重试</string>
+    <string name="text_red_packet">特惠</string>
+    <string name="text_search">抽取</string>
+    <string name="text_selected">精选</string>
+    <string name="text_selected_title">精选宝贝</string>
+    <string name="text_tao_kou_ling">淘口令</string>
+    <style name="Theme.TaobaoUnion" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="AutoLooperStyle">
+        <attr format="integer" name="duration"/>
+    </declare-styleable>
+</resources>

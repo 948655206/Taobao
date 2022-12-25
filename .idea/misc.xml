@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/navigation_bar_color.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/selector_navigation_home.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/selector_navigation_search.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/selector_navigation_selected.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/selectot_navigation_red_packet.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shape_edit_box_bg.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shape_indicator_point_normal.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shape_indicator_point_selected.xml" value="0.3725" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shape_tag_bg.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shape_title_flag.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/drawable/shpe_indicator_point.xml" value="0.1795" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/activity_main.xml" value="0.25377800937988537" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/activity_test.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/base_fragment_layout.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/base_home_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_empty.xml" value="0.1140625" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_error.xml" value="0.264" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_home_pager.xml" value="0.2" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_loading.xml" value="0.16799999999999998" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_redpacket.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_search.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/fragment_select.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/include_home_pager_title.xml" value="0.2526041666666667" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/layout/item_home_pager_content.xml" value="0.264" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/menu/my_navigation_items.xml" value="0.25364583333333335" />
+        <entry key="..\:/TaobaoUnion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/liu/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/auto_complete_list.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/item_select_page_content.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/selector_flow_text_bg.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_button_bg.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_edit_box_bg.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_flow_text_bg.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_flow_text_bg_page.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_flow_text_bg_page_press.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_flow_text_bg_press.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_tag_bg.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/drawable/shape_title_flag.xml" value="0.3105" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/activitiy_scaner_qr_code.xml" value="0.25" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/activity_main.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/activity_ticket.xml" value="0.5484375" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/base_fragment_layout.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/base_home_fragment.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/flow_text_view.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_home.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_home_pager.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_loading.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_on_sell.xml" value="0.33" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_search.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_search_layout.xml" value="0.5" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_select.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/fragment_with_bar_layout.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/include_home_pager_title_part.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/item_home_pager_content.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/item_on_sell_content.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/item_selected_page_content.xml" value="0.309375" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/layout/item_selected_page_left.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/liu/Desktop/TaobaoUnion/app/src/main/res/menu/my_navigation_items.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/liu/Desktop/黄张敖Android/1（无ppt）/SuperDic/.gradle/2.10/caches/transforms-3/557d5ca2900fc3c4b53de3b4f405c40f/transformed/jetified-RxFeature-v2.4.1/res/layout/activity_scaner_code.xml" value="0.5494791666666666" />
+        <entry key="..\:/ZhangXuYang/app/src/main/res/layout/activitiy_scaner_qr_code.xml" value="0.182518115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
