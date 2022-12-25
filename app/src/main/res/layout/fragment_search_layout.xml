@@ -28,7 +28,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="20dp"
             android:layout_toLeftOf="@id/search_btn"
-            android:background="@drawable/shape_button_bg"
+            android:background="@drawable/shape_edit_box_bg"
             android:hint="搜你想搜的宝贝"
             android:imeOptions="actionSearch"
             android:maxLines="1"

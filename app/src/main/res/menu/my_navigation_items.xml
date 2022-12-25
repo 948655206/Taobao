@@ -6,6 +6,7 @@
         android:title="@string/text_home"
         />
     <item
+        android:visible="false"
         android:id="@+id/selected"
         android:icon="@mipmap/select_normal"
         android:title="@string/text_selected"

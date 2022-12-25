@@ -3,6 +3,7 @@ package com.zxyapp.taobaounion.model.domain;
 import java.util.List;
 
 public class OnSellContent {
+
     private boolean success;
     private int code;
     private String message;
@@ -38,16 +39,6 @@ public class OnSellContent {
 
     public void setData(DataBean data) {
         this.data = data;
-    }
-
-    @Override
-    public String toString() {
-        return "OnSellContent{" +
-                "success=" + success +
-                ", code=" + code +
-                ", message='" + message + '\'' +
-                ", data=" + data +
-                '}';
     }
 
     public static class DataBean {
@@ -90,15 +81,6 @@ public class OnSellContent {
                 this.request_id = request_id;
             }
 
-            @Override
-            public String toString() {
-                return "TbkDgOptimusMaterialResponseBean{" +
-                        "is_default='" + is_default + '\'' +
-                        ", result_list=" + result_list +
-                        ", request_id='" + request_id + '\'' +
-                        '}';
-            }
-
             public static class ResultListBean {
                 private List<MapDataBean> map_data;
 
@@ -110,37 +92,31 @@ public class OnSellContent {
                     this.map_data = map_data;
                 }
 
-                @Override
-                public String toString() {
-                    return "ResultListBean{" +
-                            "map_data=" + map_data +
-                            '}';
-                }
-
-                public static class MapDataBean implements IBaseInfo{
+                public static class MapDataBean implements IBaseInfo {
                     private int category_id;
-                    private Object category_name;
                     private String click_url;
                     private String commission_rate;
                     private int coupon_amount;
                     private String coupon_click_url;
                     private String coupon_end_time;
-                    private Object coupon_info;
                     private int coupon_remain_count;
                     private String coupon_share_url;
                     private String coupon_start_fee;
                     private String coupon_start_time;
                     private int coupon_total_count;
                     private String item_description;
-                    private long item_id;
+                    private String item_id;
                     private int level_one_category_id;
                     private String level_one_category_name;
-                    private String nick;
                     private String pict_url;
+                    private String reserve_price;
                     private long seller_id;
-                    private Object shop_title;
-                    private SmallImagesBean small_images;
+                    private String short_title;
+                    private SmallImagesDataBean small_images;
+                    private String sub_title;
                     private String title;
+                    private int tmall_play_activity_end_time;
+                    private int tmall_play_activity_start_time;
                     private int user_type;
                     private int volume;
                     private String zk_final_price;
@@ -151,14 +127,6 @@ public class OnSellContent {
 
                     public void setCategory_id(int category_id) {
                         this.category_id = category_id;
-                    }
-
-                    public Object getCategory_name() {
-                        return category_name;
-                    }
-
-                    public void setCategory_name(Object category_name) {
-                        this.category_name = category_name;
                     }
 
                     public String getClick_url() {
@@ -199,14 +167,6 @@ public class OnSellContent {
 
                     public void setCoupon_end_time(String coupon_end_time) {
                         this.coupon_end_time = coupon_end_time;
-                    }
-
-                    public Object getCoupon_info() {
-                        return coupon_info;
-                    }
-
-                    public void setCoupon_info(Object coupon_info) {
-                        this.coupon_info = coupon_info;
                     }
 
                     public int getCoupon_remain_count() {
@@ -257,11 +217,11 @@ public class OnSellContent {
                         this.item_description = item_description;
                     }
 
-                    public long getItem_id() {
+                    public String getItem_id() {
                         return item_id;
                     }
 
-                    public void setItem_id(long item_id) {
+                    public void setItem_id(String item_id) {
                         this.item_id = item_id;
                     }
 
@@ -281,20 +241,20 @@ public class OnSellContent {
                         this.level_one_category_name = level_one_category_name;
                     }
 
-                    public String getNick() {
-                        return nick;
-                    }
-
-                    public void setNick(String nick) {
-                        this.nick = nick;
-                    }
-
                     public String getPict_url() {
                         return pict_url;
                     }
 
                     public void setPict_url(String pict_url) {
                         this.pict_url = pict_url;
+                    }
+
+                    public String getReserve_price() {
+                        return reserve_price;
+                    }
+
+                    public void setReserve_price(String reserve_price) {
+                        this.reserve_price = reserve_price;
                     }
 
                     public long getSeller_id() {
@@ -305,20 +265,28 @@ public class OnSellContent {
                         this.seller_id = seller_id;
                     }
 
-                    public Object getShop_title() {
-                        return shop_title;
+                    public String getShort_title() {
+                        return short_title;
                     }
 
-                    public void setShop_title(Object shop_title) {
-                        this.shop_title = shop_title;
+                    public void setShort_title(String short_title) {
+                        this.short_title = short_title;
                     }
 
-                    public SmallImagesBean getSmall_images() {
+                    public SmallImagesDataBean getSmall_images() {
                         return small_images;
                     }
 
-                    public void setSmall_images(SmallImagesBean small_images) {
+                    public void setSmall_images(SmallImagesDataBean small_images) {
                         this.small_images = small_images;
+                    }
+
+                    public String getSub_title() {
+                        return sub_title;
+                    }
+
+                    public void setSub_title(String sub_title) {
+                        this.sub_title = sub_title;
                     }
 
                     @Override
@@ -337,6 +305,22 @@ public class OnSellContent {
 
                     public void setTitle(String title) {
                         this.title = title;
+                    }
+
+                    public int getTmall_play_activity_end_time() {
+                        return tmall_play_activity_end_time;
+                    }
+
+                    public void setTmall_play_activity_end_time(int tmall_play_activity_end_time) {
+                        this.tmall_play_activity_end_time = tmall_play_activity_end_time;
+                    }
+
+                    public int getTmall_play_activity_start_time() {
+                        return tmall_play_activity_start_time;
+                    }
+
+                    public void setTmall_play_activity_start_time(int tmall_play_activity_start_time) {
+                        this.tmall_play_activity_start_time = tmall_play_activity_start_time;
                     }
 
                     public int getUser_type() {
@@ -363,39 +347,7 @@ public class OnSellContent {
                         this.zk_final_price = zk_final_price;
                     }
 
-                    @Override
-                    public String toString() {
-                        return "MapDataBean{" +
-                                "category_id=" + category_id +
-                                ", category_name=" + category_name +
-                                ", click_url='" + click_url + '\'' +
-                                ", commission_rate='" + commission_rate + '\'' +
-                                ", coupon_amount=" + coupon_amount +
-                                ", coupon_click_url='" + coupon_click_url + '\'' +
-                                ", coupon_end_time='" + coupon_end_time + '\'' +
-                                ", coupon_info=" + coupon_info +
-                                ", coupon_remain_count=" + coupon_remain_count +
-                                ", coupon_share_url='" + coupon_share_url + '\'' +
-                                ", coupon_start_fee='" + coupon_start_fee + '\'' +
-                                ", coupon_start_time='" + coupon_start_time + '\'' +
-                                ", coupon_total_count=" + coupon_total_count +
-                                ", item_description='" + item_description + '\'' +
-                                ", item_id=" + item_id +
-                                ", level_one_category_id=" + level_one_category_id +
-                                ", level_one_category_name='" + level_one_category_name + '\'' +
-                                ", nick='" + nick + '\'' +
-                                ", pict_url='" + pict_url + '\'' +
-                                ", seller_id=" + seller_id +
-                                ", shop_title=" + shop_title +
-                                ", small_images=" + small_images +
-                                ", title='" + title + '\'' +
-                                ", user_type=" + user_type +
-                                ", volume=" + volume +
-                                ", zk_final_price='" + zk_final_price + '\'' +
-                                '}';
-                    }
-
-                    public static class SmallImagesBean {
+                    public static class SmallImagesDataBean {
                         private List<String> string;
 
                         public List<String> getString() {
@@ -404,13 +356,6 @@ public class OnSellContent {
 
                         public void setString(List<String> string) {
                             this.string = string;
-                        }
-
-                        @Override
-                        public String toString() {
-                            return "SmallImagesBean{" +
-                                    "string=" + string +
-                                    '}';
                         }
                     }
                 }

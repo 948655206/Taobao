@@ -15,7 +15,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
-import retrofit2.http.Url;
 
 public class SelectedPagePresenterImpl implements ISelectPagerPresenter {
     private final Api mApi;
@@ -64,6 +63,7 @@ public class SelectedPagePresenterImpl implements ISelectPagerPresenter {
             @Override
             public void onFailure(Call<SelectPageCategory> call, Throwable t) {
                 onLoadedError();
+                LogUtils.e(this,"错误1==>"+t);
             }
         });
     }

@@ -46,17 +46,17 @@
             android:layout_height="wrap_content"
             android:text="首页"
             />
-        <RadioButton
-            android:id="@+id/selected"
-            android:drawableTop="@drawable/selector_navigation_selected"
-            android:gravity="center"
-            android:textColor="@drawable/navigation_bar_color"
-            android:button="@null"
-            android:layout_weight="1"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:text="精选"
-            />
+<!--        <RadioButton-->
+<!--            android:id="@+id/selected"-->
+<!--            android:drawableTop="@drawable/selector_navigation_selected"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="@drawable/navigation_bar_color"-->
+<!--            android:button="@null"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="精选"-->
+<!--            />-->
         <RadioButton
             android:id="@+id/red_packet"
             android:drawableTop="@drawable/selectot_navigation_red_packet"

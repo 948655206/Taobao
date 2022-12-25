@@ -110,14 +110,14 @@ public class SearchResult {
                     private String include_mkt;
                     private String info_dxjh;
                     private String item_description;
-                    private long item_id;
+                    private String item_id;
                     private String item_url;
                     private int level_one_category_id;
                     private String level_one_category_name;
                     private String nick;
-                    private long num_iid;
+                    private String num_iid;
                     private String pict_url;
-                    private Object presale_deposit;
+                    private String presale_deposit;
                     private int presale_end_time;
                     private int presale_start_time;
                     private int presale_tail_end_time;
@@ -130,19 +130,16 @@ public class SearchResult {
                     private String shop_title;
                     private String short_title;
                     private SmallImagesDataBean small_images;
+                    private String superior_brand;
                     private String title;
                     private String tk_total_commi;
                     private String tk_total_sales;
                     private String url;
                     private int user_type;
-                    private long volume;
+                    private int volume;
                     private String white_image;
                     private String x_id;
                     private String zk_final_price;
-                    private int jdd_num;
-                    private Object jdd_price;
-                    private Object oetime;
-                    private Object ostime;
 
                     public int getCategory_id() {
                         return category_id;
@@ -280,11 +277,11 @@ public class SearchResult {
                         this.item_description = item_description;
                     }
 
-                    public long getItem_id() {
+                    public String getItem_id() {
                         return item_id;
                     }
 
-                    public void setItem_id(long item_id) {
+                    public void setItem_id(String item_id) {
                         this.item_id = item_id;
                     }
 
@@ -320,11 +317,11 @@ public class SearchResult {
                         this.nick = nick;
                     }
 
-                    public long getNum_iid() {
+                    public String getNum_iid() {
                         return num_iid;
                     }
 
-                    public void setNum_iid(long num_iid) {
+                    public void setNum_iid(String num_iid) {
                         this.num_iid = num_iid;
                     }
 
@@ -336,11 +333,11 @@ public class SearchResult {
                         this.pict_url = pict_url;
                     }
 
-                    public Object getPresale_deposit() {
+                    public String getPresale_deposit() {
                         return presale_deposit;
                     }
 
-                    public void setPresale_deposit(Object presale_deposit) {
+                    public void setPresale_deposit(String presale_deposit) {
                         this.presale_deposit = presale_deposit;
                     }
 
@@ -440,6 +437,14 @@ public class SearchResult {
                         this.small_images = small_images;
                     }
 
+                    public String getSuperior_brand() {
+                        return superior_brand;
+                    }
+
+                    public void setSuperior_brand(String superior_brand) {
+                        this.superior_brand = superior_brand;
+                    }
+
                     @Override
                     public String getCover() {
                         return pict_url;
@@ -499,7 +504,7 @@ public class SearchResult {
                         return volume;
                     }
 
-                    public void setVolume(long volume) {
+                    public void setVolume(int volume) {
                         this.volume = volume;
                     }
 
@@ -525,38 +530,6 @@ public class SearchResult {
 
                     public void setZk_final_price(String zk_final_price) {
                         this.zk_final_price = zk_final_price;
-                    }
-
-                    public int getJdd_num() {
-                        return jdd_num;
-                    }
-
-                    public void setJdd_num(int jdd_num) {
-                        this.jdd_num = jdd_num;
-                    }
-
-                    public Object getJdd_price() {
-                        return jdd_price;
-                    }
-
-                    public void setJdd_price(Object jdd_price) {
-                        this.jdd_price = jdd_price;
-                    }
-
-                    public Object getOetime() {
-                        return oetime;
-                    }
-
-                    public void setOetime(Object oetime) {
-                        this.oetime = oetime;
-                    }
-
-                    public Object getOstime() {
-                        return ostime;
-                    }
-
-                    public void setOstime(Object ostime) {
-                        this.ostime = ostime;
                     }
 
                     public static class SmallImagesDataBean {

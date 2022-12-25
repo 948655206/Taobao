@@ -1,122 +1,36 @@
 package com.zxyapp.taobaounion.model.domain;
 
-import com.google.gson.annotations.SerializedName;
-
 import java.util.List;
 
 public class HomePagerContent {
 
-    /**
-     * {
-     *     "success": true,
-     *     "code": 10000,
-     *     "message": "获取成功.",
-     *     "data": [
-     *         {
-     *             "category_id": 50013196,
-     *             "category_name": null,
-     *             "click_url": "//s.click.taobao.com/t?e=m%3D2%26s%3DhXqHdcVPA31w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BcvKH%2BTjMa38aSx7PqjIIZm5nS0VR3oT0KAZCke%2BMGJxC%2FP4%2FZfPFbcQmwDRwHnn1oN8CPq4PKMZiqtwk9j5QPwdDmZ4my9rNxg%2BOuc502%2FxKQVLSayBBekOrGae4DS5oO2CiNcVz0Ken9V8QqUE14KAPbaLraL5LtdhRLMp6nxY4S2k1mJ%2BZU%3D&scm=1007.19011.125573.0_9660&pvid=9e141d3e-367c-445e-b2dd-164409bc01e7&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;originalFloorId:9660;pvid:9e141d3e-367c-445e-b2dd-164409bc01e7;app_pvid:59590_11.8.57.194_76981_1575265017272&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3e_ba02%4001",
-     *             "commission_rate": "6.0",
-     *             "coupon_amount": 50,
-     *             "coupon_click_url": "//uland.taobao.com/coupon/edetail?e=jTRK9ngpcrwNfLV8niU3R5TgU2jJNKOfU1BGIDN741G0%2Bc5Gzwi6geKSfLX1rbqQLGbJes29FQq2QeBl4W2u75z0DDzD1ZdVKMOj3xTK3tZKuy%2B0WAVbvPskU%2Fn7vZ%2Fe3KE7Ta9aMuRNo1KEDehNsJ4dcb7gMzr8o%2Be84lu5p3EGQASttHIRqUS8oXsFw3XFyDMraI2cBGPGcv8Nne7cgq5OaBGcL9GSTA0FRtOwCuw%3D&&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;app_pvid:59590_11.8.57.194_76981_1575265017272;tpp_pvid:9e141d3e-367c-445e-b2dd-164409bc01e7&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3e_ba02%4001",
-     *             "coupon_end_time": "1575561599000",
-     *             "coupon_info": null,
-     *             "coupon_remain_count": 97000,
-     *             "coupon_share_url": "//uland.taobao.com/coupon/edetail?e=jTRK9ngpcrwNfLV8niU3R5TgU2jJNKOfU1BGIDN741G0%2Bc5Gzwi6geKSfLX1rbqQLGbJes29FQq2QeBl4W2u75z0DDzD1ZdVKMOj3xTK3tZKuy%2B0WAVbvPskU%2Fn7vZ%2Fe3KE7Ta9aMuRNo1KEDehNsJ4dcb7gMzr8o%2Be84lu5p3EGQASttHIRqUS8oXsFw3XFyDMraI2cBGPGcv8Nne7cgq5OaBGcL9GSTA0FRtOwCuw%3D&&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;app_pvid:59590_11.8.57.194_76981_1575265017272;tpp_pvid:9e141d3e-367c-445e-b2dd-164409bc01e7&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3e_ba02%4001",
-     *             "coupon_start_fee": "79.0",
-     *             "coupon_start_time": "1575216000000",
-     *             "coupon_total_count": 100000,
-     *             "item_description": "全面升级 加绒加厚 更有加长款满足个高的你",
-     *             "item_id": 560264222655,
-     *             "level_one_category_id": 16,
-     *             "level_one_category_name": "女装/女士精品",
-     *             "nick": "依牧绒旗舰店",
-     *             "pict_url": "//gw.alicdn.com/bao/uploaded/i4/2131383559/O1CN01DMHSl01cA4AO3d5gI_!!0-item_pic.jpg",
-     *             "seller_id": 2131383559,
-     *             "shop_title": "依牧绒旗舰店",
-     *             "small_images": {
-     *                 "string": [
-     *                     "//img.alicdn.com/i2/2131383559/O1CN01xvHcmS1cA44x3e8Ag_!!2131383559.jpg",
-     *                     "//img.alicdn.com/i3/2131383559/TB2OuVLjWagSKJjy0FaXXb0dpXa_!!2131383559.jpg",
-     *                     "//img.alicdn.com/i1/2131383559/TB23CrcnYsTMeJjSsziXXcdwXXa_!!2131383559.jpg",
-     *                     "//img.alicdn.com/i3/2131383559/TB2uh5.nYwTMeJjSszfXXXbtFXa_!!2131383559.jpg"
-     *                 ]
-     *             },
-     *             "title": "2019秋冬马甲羽绒棉女加绒保暖学生马夹棉服外套女棉衣面包服背心",
-     *             "user_type": 1,
-     *             "volume": 30804,
-     *             "zk_final_price": "79.9"
-     *         },
-     *         {
-     *             "category_id": 50019001,
-     *             "category_name": null,
-     *             "click_url": "//s.click.taobao.com/t?e=m%3D2%26s%3DN8yGtdbUXiVw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BcvKH%2BTjMa38aSx7PqjIIZm5nS0VR3oT0KAZCke%2BMGJxC%2FP4%2FZfPFbcQmwDRwHnn1oN8CPq4PKMZiqtwk9j5QNerBM5mSXVLZIQa6qg9eLV0a3u46RXbtekOrGae4DS5oO2CiNcVz0KPqWqRPDXyNNpqoxKosq%2FMbtdhRLMp6nxY4S2k1mJ%2BZU%3D&scm=1007.19011.125573.0_9660&pvid=9e141d3e-367c-445e-b2dd-164409bc01e7&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;originalFloorId:9660;pvid:9e141d3e-367c-445e-b2dd-164409bc01e7;app_pvid:59590_11.8.57.194_76981_1575265017272&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3f_ba08%4001",
-     *             "commission_rate": "9.0",
-     *             "coupon_amount": 20,
-     *             "coupon_click_url": "//uland.taobao.com/coupon/edetail?e=QQzniHg2%2BooNfLV8niU3R5TgU2jJNKOfU1BGIDN741G0%2Bc5Gzwi6geKSfLX1rbqQLGbJes29FQq2QeBl4W2u7xytS5OGw29olRKZ8DI0LPZKuy%2B0WAVbvPskU%2Fn7vZ%2Fe3KE7Ta9aMuRNo1KEDehNsJ4dcb7gMzr8o%2Be84lu5p3EGQASttHIRqWOUJeY8%2FPSU5VEyZiiJcVy4Q6eh0tBC8a5OaBGcL9GSTA0FRtOwCuw%3D&&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;app_pvid:59590_11.8.57.194_76981_1575265017272;tpp_pvid:9e141d3e-367c-445e-b2dd-164409bc01e7&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3f_ba08%4001",
-     *             "coupon_end_time": "1575475199000",
-     *             "coupon_info": null,
-     *             "coupon_remain_count": 99000,
-     *             "coupon_share_url": "//uland.taobao.com/coupon/edetail?e=QQzniHg2%2BooNfLV8niU3R5TgU2jJNKOfU1BGIDN741G0%2Bc5Gzwi6geKSfLX1rbqQLGbJes29FQq2QeBl4W2u7xytS5OGw29olRKZ8DI0LPZKuy%2B0WAVbvPskU%2Fn7vZ%2Fe3KE7Ta9aMuRNo1KEDehNsJ4dcb7gMzr8o%2Be84lu5p3EGQASttHIRqWOUJeY8%2FPSU5VEyZiiJcVy4Q6eh0tBC8a5OaBGcL9GSTA0FRtOwCuw%3D&&app_pvid=59590_11.8.57.194_76981_1575265017272&ptl=floorId:9660;app_pvid:59590_11.8.57.194_76981_1575265017272;tpp_pvid:9e141d3e-367c-445e-b2dd-164409bc01e7&union_lens=lensId%3AOPT%401575265017%400b0839c2_0d6c_16ec51c9e3f_ba08%4001",
-     *             "coupon_start_fee": "29.0",
-     *             "coupon_start_time": "1575216000000",
-     *             "coupon_total_count": 100000,
-     *             "item_description": "买1送1 买2送3",
-     *             "item_id": 590710941228,
-     *             "level_one_category_id": 50025705,
-     *             "level_one_category_name": "洗护清洁剂/卫生巾/纸/香薰",
-     *             "nick": "大末居家日用专营店",
-     *             "pict_url": "//gw.alicdn.com/bao/uploaded/i2/1881526428/O1CN01wUGVGL1xM4SAcwL9t_!!0-item_pic.jpg",
-     *             "seller_id": 1881526428,
-     *             "shop_title": "大末居家日用专营店",
-     *             "small_images": {
-     *                 "string": [
-     *                     "//img.alicdn.com/i4/1881526428/O1CN01ICyMUo1xM4SL4Rg8S_!!1881526428.jpg",
-     *                     "//img.alicdn.com/i1/1881526428/O1CN01SkxFxs1xM4U6pr6CO_!!1881526428.jpg",
-     *                     "//img.alicdn.com/i2/1881526428/O1CN017aRJGB1xM4TyHZz0M_!!1881526428.jpg",
-     *                     "//img.alicdn.com/i3/1881526428/O1CN01bxnKyp1xM4TzzZZ1S_!!1881526428.jpg"
-     *                 ]
-     *             },
-     *             "title": "活氧彩漂白剂彩色衣物还原衣服通用彩票粉家用彩漂粉去渍去黄增白",
-     *             "user_type": 1,
-     *             "volume": 63107,
-     *             "zk_final_price": "29.9"
-     *         }
-     *     ]
-     * }
-     */
-
-    @SerializedName("success")
-    private Boolean success;
-    @SerializedName("code")
-    private long code;
-    @SerializedName("message")
+    private boolean success;
+    private int code;
     private String message;
-    @SerializedName("data")
     private List<DataDTO> data;
 
-    public Boolean getSuccess() {
+    public boolean isSuccess() {
         return success;
     }
 
-    public void setSuccess(Boolean success) {
+    public void setSuccess(boolean success) {
         this.success = success;
     }
 
-    public long getCode() {
+    public int getCode() {
         return code;
     }
 
-    public void setCode(Long code) {
+    public void setCode(int code) {
         this.code = code;
     }
 
-    public String getEssage() {
+    public String getMessage() {
         return message;
     }
 
-    public void setEssage(String essage) {
-        message = essage;
+    public void setMessage(String message) {
+        this.message = message;
     }
 
     public List<DataDTO> getData() {
@@ -127,287 +41,211 @@ public class HomePagerContent {
         this.data = data;
     }
 
-    @Override
-    public String toString() {
-        return "HomePagerContent{" +
-                "success=" + success +
-                ", code=" + code +
-                ", message='" + message + '\'' +
-                ", data=" + data +
-                '}';
-    }
-
     public static class DataDTO implements ILinearItemInfo{
-
-        @Override
-        public String toString() {
-            return "DataDTO{" +
-                    "categoryId=" + categoryId +
-                    ", categoryName=" + categoryName +
-                    ", clickUrl='" + clickUrl + '\'' +
-                    ", commissionRate='" + commissionRate + '\'' +
-                    ", couponAmount=" + couponAmount +
-                    ", couponClickUrl='" + couponClickUrl + '\'' +
-                    ", couponEndTime='" + couponEndTime + '\'' +
-                    ", couponInfo=" + couponInfo +
-                    ", couponRemainCount=" + couponRemainCount +
-                    ", couponShareUrl='" + couponShareUrl + '\'' +
-                    ", couponStartFee='" + couponStartFee + '\'' +
-                    ", couponStartTime='" + couponStartTime + '\'' +
-                    ", couponTotalCount=" + couponTotalCount +
-                    ", itemDescription='" + itemDescription + '\'' +
-                    ", itemId=" + itemId +
-                    ", levelOneCategoryId=" + levelOneCategoryId +
-                    ", levelOneCategoryName='" + levelOneCategoryName + '\'' +
-                    ", nick='" + nick + '\'' +
-                    ", pictUrl='" + pictUrl + '\'' +
-                    ", sellerId=" + sellerId +
-                    ", shopTitle='" + shopTitle + '\'' +
-                    ", smallImages=" + smallImages +
-                    ", title='" + title + '\'' +
-                    ", userType=" + userType +
-                    ", volume=" + volume +
-                    ", zkFinalPrice='" + zkFinalPrice + '\'' +
-                    '}';
-        }
-
-        @SerializedName("category_id")
-        private Long categoryId;
-        @SerializedName("category_name")
-        private Object categoryName;
-        @SerializedName("click_url")
-        private String clickUrl;
-        @SerializedName("commission_rate")
-        private String commissionRate;
-        @SerializedName("coupon_amount")
-        private Long couponAmount;
-        @SerializedName("coupon_click_url")
-        private String couponClickUrl;
-        @SerializedName("coupon_end_time")
-        private String couponEndTime;
-        @SerializedName("coupon_info")
-        private Object couponInfo;
-        @SerializedName("coupon_remain_count")
-        private Long couponRemainCount;
-        @SerializedName("coupon_share_url")
-        private String couponShareUrl;
-        @SerializedName("coupon_start_fee")
-        private String couponStartFee;
-        @SerializedName("coupon_start_time")
-        private String couponStartTime;
-        @SerializedName("coupon_total_count")
-        private Long couponTotalCount;
-        @SerializedName("item_description")
-        private String itemDescription;
-        @SerializedName("item_id")
-        private Long itemId;
-        @SerializedName("level_one_category_id")
-        private Long levelOneCategoryId;
-        @SerializedName("level_one_category_name")
-        private String levelOneCategoryName;
-        @SerializedName("nick")
-        private String nick;
-        @SerializedName("pict_url")
-        private String pictUrl;
-        @SerializedName("seller_id")
-        private Long sellerId;
-        @SerializedName("shop_title")
-        private String shopTitle;
-        @SerializedName("small_images")
-        private SmallImagesDTO smallImages;
-        @SerializedName("title")
+        private int category_id;
+        private String click_url;
+        private String commission_rate;
+        private long coupon_amount;
+        private String coupon_click_url;
+        private String coupon_end_time;
+        private int coupon_remain_count;
+        private String coupon_share_url;
+        private String coupon_start_fee;
+        private String coupon_start_time;
+        private int coupon_total_count;
+        private String item_description;
+        private String item_id;
+        private int level_one_category_id;
+        private String level_one_category_name;
+        private String pict_url;
+        private String reserve_price;
+        private long seller_id;
+        private Object short_title;
+        private SmallImagesDataBean small_images;
+        private String sub_title;
         private String title;
-        @SerializedName("user_type")
-        private Long userType;
-        @SerializedName("volume")
-        private Long volume;
-        @SerializedName("zk_final_price")
-        private String zkFinalPrice;
+        private int tmall_play_activity_end_time;
+        private int tmall_play_activity_start_time;
+        private int user_type;
+        private int volume;
+        private String zk_final_price;
 
-        public Long getCategoryId() {
-            return categoryId;
+        public int getCategory_id() {
+            return category_id;
         }
 
-        public void setCategoryId(Long categoryId) {
-            this.categoryId = categoryId;
+        public void setCategory_id(int category_id) {
+            this.category_id = category_id;
         }
 
-        public Object getCategoryName() {
-            return categoryName;
+        public String getClick_url() {
+            return click_url;
         }
 
-        public void setCategoryName(Object categoryName) {
-            this.categoryName = categoryName;
+        public void setClick_url(String click_url) {
+            this.click_url = click_url;
         }
 
-        public String getClickUrl() {
-            return clickUrl;
+        public String getCommission_rate() {
+            return commission_rate;
         }
 
-        public void setClickUrl(String clickUrl) {
-            this.clickUrl = clickUrl;
-        }
-
-        public String getCommissionRate() {
-            return commissionRate;
-        }
-
-        public void setCommissionRate(String commissionRate) {
-            this.commissionRate = commissionRate;
+        public void setCommission_rate(String commission_rate) {
+            this.commission_rate = commission_rate;
         }
 
         @Override
         public String getFinalPrise() {
-            return zkFinalPrice;
+            return zk_final_price;
         }
 
         public long getCouponAmount() {
-            return couponAmount;
+            return coupon_amount;
         }
 
-        public void setCouponAmount(Long couponAmount) {
-            this.couponAmount = couponAmount;
+        public void setCoupon_amount(int coupon_amount) {
+            this.coupon_amount = coupon_amount;
         }
 
-        public String getCouponClickUrl() {
-            return couponClickUrl;
+        public String getCoupon_click_url() {
+            return coupon_click_url;
         }
 
-        public void setCouponClickUrl(String couponClickUrl) {
-            this.couponClickUrl = couponClickUrl;
+        public void setCoupon_click_url(String coupon_click_url) {
+            this.coupon_click_url = coupon_click_url;
         }
 
-        public String getCouponEndTime() {
-            return couponEndTime;
+        public String getCoupon_end_time() {
+            return coupon_end_time;
         }
 
-        public void setCouponEndTime(String couponEndTime) {
-            this.couponEndTime = couponEndTime;
+        public void setCoupon_end_time(String coupon_end_time) {
+            this.coupon_end_time = coupon_end_time;
         }
 
-        public Object getCouponInfo() {
-            return couponInfo;
+        public int getCoupon_remain_count() {
+            return coupon_remain_count;
         }
 
-        public void setCouponInfo(Object couponInfo) {
-            this.couponInfo = couponInfo;
+        public void setCoupon_remain_count(int coupon_remain_count) {
+            this.coupon_remain_count = coupon_remain_count;
         }
 
-        public Long getCouponRemainCount() {
-            return couponRemainCount;
+        public String getCoupon_share_url() {
+            return coupon_share_url;
         }
 
-        public void setCouponRemainCount(Long couponRemainCount) {
-            this.couponRemainCount = couponRemainCount;
+        public void setCoupon_share_url(String coupon_share_url) {
+            this.coupon_share_url = coupon_share_url;
         }
 
-        public String getCouponShareUrl() {
-            return couponShareUrl;
+        public String getCoupon_start_fee() {
+            return coupon_start_fee;
         }
 
-        public void setCouponShareUrl(String couponShareUrl) {
-            this.couponShareUrl = couponShareUrl;
+        public void setCoupon_start_fee(String coupon_start_fee) {
+            this.coupon_start_fee = coupon_start_fee;
         }
 
-        public String getCouponStartFee() {
-            return couponStartFee;
+        public String getCoupon_start_time() {
+            return coupon_start_time;
         }
 
-        public void setCouponStartFee(String couponStartFee) {
-            this.couponStartFee = couponStartFee;
+        public void setCoupon_start_time(String coupon_start_time) {
+            this.coupon_start_time = coupon_start_time;
         }
 
-        public String getCouponStartTime() {
-            return couponStartTime;
+        public int getCoupon_total_count() {
+            return coupon_total_count;
         }
 
-        public void setCouponStartTime(String couponStartTime) {
-            this.couponStartTime = couponStartTime;
+        public void setCoupon_total_count(int coupon_total_count) {
+            this.coupon_total_count = coupon_total_count;
         }
 
-        public Long getCouponTotalCount() {
-            return couponTotalCount;
+        public String getItem_description() {
+            return item_description;
         }
 
-        public void setCouponTotalCount(Long couponTotalCount) {
-            this.couponTotalCount = couponTotalCount;
+        public void setItem_description(String item_description) {
+            this.item_description = item_description;
         }
 
-        public String getItemDescription() {
-            return itemDescription;
+        public String getItem_id() {
+            return item_id;
         }
 
-        public void setItemDescription(String itemDescription) {
-            this.itemDescription = itemDescription;
+        public void setItem_id(String item_id) {
+            this.item_id = item_id;
         }
 
-        public Long getItemId() {
-            return itemId;
+        public int getLevel_one_category_id() {
+            return level_one_category_id;
         }
 
-        public void setItemId(Long itemId) {
-            this.itemId = itemId;
+        public void setLevel_one_category_id(int level_one_category_id) {
+            this.level_one_category_id = level_one_category_id;
         }
 
-        public Long getLevelOneCategoryId() {
-            return levelOneCategoryId;
+        public String getLevel_one_category_name() {
+            return level_one_category_name;
         }
 
-        public void setLevelOneCategoryId(Long levelOneCategoryId) {
-            this.levelOneCategoryId = levelOneCategoryId;
-        }
-
-        public String getLevelOneCategoryName() {
-            return levelOneCategoryName;
-        }
-
-        public void setLevelOneCategoryName(String levelOneCategoryName) {
-            this.levelOneCategoryName = levelOneCategoryName;
-        }
-
-        public String getNick() {
-            return nick;
-        }
-
-        public void setNick(String nick) {
-            this.nick = nick;
+        public void setLevel_one_category_name(String level_one_category_name) {
+            this.level_one_category_name = level_one_category_name;
         }
 
         public String getPictUrl() {
-            return pictUrl;
+            return pict_url;
         }
 
-        public void setPictUrl(String pictUrl) {
-            this.pictUrl = pictUrl;
+        public void setPict_url(String pict_url) {
+            this.pict_url = pict_url;
         }
 
-        public Long getSellerId() {
-            return sellerId;
+        public String getReserve_price() {
+            return reserve_price;
         }
 
-        public void setSellerId(Long sellerId) {
-            this.sellerId = sellerId;
+        public void setReserve_price(String reserve_price) {
+            this.reserve_price = reserve_price;
         }
 
-        public String getShopTitle() {
-            return shopTitle;
+        public long getSeller_id() {
+            return seller_id;
         }
 
-        public void setShopTitle(String shopTitle) {
-            this.shopTitle = shopTitle;
+        public void setSeller_id(long seller_id) {
+            this.seller_id = seller_id;
         }
 
-        public SmallImagesDTO getSmallImages() {
-            return smallImages;
+        public Object getShort_title() {
+            return short_title;
         }
 
-        public void setSmallImages(SmallImagesDTO smallImages) {
-            this.smallImages = smallImages;
+        public void setShort_title(Object short_title) {
+            this.short_title = short_title;
+        }
+
+        public SmallImagesDataBean getSmall_images() {
+            return small_images;
+        }
+
+        public void setSmall_images(SmallImagesDataBean small_images) {
+            this.small_images = small_images;
+        }
+
+        public String getSub_title() {
+            return sub_title;
+        }
+
+        public void setSub_title(String sub_title) {
+            this.sub_title = sub_title;
         }
 
         @Override
         public String getCover() {
-            return pictUrl;
+            return pict_url;
         }
 
         public String getTitle() {
@@ -416,39 +254,54 @@ public class HomePagerContent {
 
         @Override
         public String getUrl() {
-            return clickUrl;
+            return click_url;
         }
 
         public void setTitle(String title) {
             this.title = title;
         }
 
-        public Long getUserType() {
-            return userType;
+        public int getTmall_play_activity_end_time() {
+            return tmall_play_activity_end_time;
         }
 
-        public void setUserType(Long userType) {
-            this.userType = userType;
+        public void setTmall_play_activity_end_time(int tmall_play_activity_end_time) {
+            this.tmall_play_activity_end_time = tmall_play_activity_end_time;
+        }
+
+        public int getTmall_play_activity_start_time() {
+            return tmall_play_activity_start_time;
+        }
+
+        public void setTmall_play_activity_start_time(int tmall_play_activity_start_time) {
+            this.tmall_play_activity_start_time = tmall_play_activity_start_time;
+        }
+
+        public int getUser_type() {
+            return user_type;
+        }
+
+        public void setUser_type(int user_type) {
+            this.user_type = user_type;
         }
 
         public long getVolume() {
             return volume;
         }
 
-        public void setVolume(Long volume) {
+        public void setVolume(int volume) {
             this.volume = volume;
         }
 
         public String getZkFinalPrice() {
-            return zkFinalPrice;
+            return zk_final_price;
         }
 
-        public void setZkFinalPrice(String zkFinalPrice) {
-            this.zkFinalPrice = zkFinalPrice;
+        public void setZk_final_price(String zk_final_price) {
+            this.zk_final_price = zk_final_price;
         }
 
-        public static class SmallImagesDTO {
-            @SerializedName("string")
+        public static class SmallImagesDataBean {
             private List<String> string;
 
             public List<String> getString() {
@@ -457,13 +310,6 @@ public class HomePagerContent {
 
             public void setString(List<String> string) {
                 this.string = string;
-            }
-
-            @Override
-            public String toString() {
-                return "SmallImagesDTO{" +
-                        "string=" + string +
-                        '}';
             }
         }
     }
