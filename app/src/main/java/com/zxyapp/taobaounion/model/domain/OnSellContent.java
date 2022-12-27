@@ -92,7 +92,7 @@ public class OnSellContent {
                     this.map_data = map_data;
                 }
 
-                public static class MapDataBean implements IBaseInfo {
+                public static class MapDataBean implements IBaseInfo{
                     private int category_id;
                     private String click_url;
                     private String commission_rate;
@@ -115,8 +115,8 @@ public class OnSellContent {
                     private SmallImagesDataBean small_images;
                     private String sub_title;
                     private String title;
-                    private int tmall_play_activity_end_time;
-                    private int tmall_play_activity_start_time;
+                    private long tmall_play_activity_end_time;
+                    private long tmall_play_activity_start_time;
                     private int user_type;
                     private int volume;
                     private String zk_final_price;
@@ -307,19 +307,19 @@ public class OnSellContent {
                         this.title = title;
                     }
 
-                    public int getTmall_play_activity_end_time() {
+                    public long getTmall_play_activity_end_time() {
                         return tmall_play_activity_end_time;
                     }
 
-                    public void setTmall_play_activity_end_time(int tmall_play_activity_end_time) {
+                    public void setTmall_play_activity_end_time(long tmall_play_activity_end_time) {
                         this.tmall_play_activity_end_time = tmall_play_activity_end_time;
                     }
 
-                    public int getTmall_play_activity_start_time() {
+                    public long getTmall_play_activity_start_time() {
                         return tmall_play_activity_start_time;
                     }
 
-                    public void setTmall_play_activity_start_time(int tmall_play_activity_start_time) {
+                    public void setTmall_play_activity_start_time(long tmall_play_activity_start_time) {
                         this.tmall_play_activity_start_time = tmall_play_activity_start_time;
                     }
 
